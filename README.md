@@ -641,6 +641,56 @@ from Scratch</a></li>
 (Or: Where's My Data)</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(308).pdf" style="text-decoration:none;">ZFS On-Disk Specification </a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(309).pdf" style="text-decoration:none;"> Depth-first search and linear graph algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(310).pdf" style="text-decoration:none;">Research Agenda in Cloud Technologies</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(311).pdf" style="text-decoration:none;">On the Origin of Deep Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(312).pdf" style="text-decoration:none;">Theoretical Impediments to Machine Learning
+With Seven Sparks from the Causal Revolution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(313).pdf" style="text-decoration:none;">Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(314).pdf" style="text-decoration:none;">ImageNet Classification with Deep Convolutional Neural Networks</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(315).pdf" style="text-decoration:none;">The Future of Cloud Computing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(316).pdf" style="text-decoration:none;">Cloud Computing: Overview and Current Research Challenges</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(317).pdf" style="text-decoration:none;">A Data Structure for Dynamic Trees</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(318).pdf" style="text-decoration:none;">A theoretician's guide to the experimental analysis of algorithms</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(319).pdf" style="text-decoration:none;">Gradient-Based Learning Applied to Document Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(320).pdf" style="text-decoration:none;">Long Live the Web</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(321).pdf" style="text-decoration:none;">Making Data Structures Persistent</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(322).pdf" style="text-decoration:none;">Matters Computational: Ideas, Algorithms, Source Code</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(323).pdf" style="text-decoration:none;">NETtalk: a parallel network that learns to read aloud</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(324).pdf" style="text-decoration:none;">Web applications Performance Symptoms and
+Bottlenecks Identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(325).pdf" style="text-decoration:none;">A Separator Theorem for Planar Graphs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(326).pdf" style="text-decoration:none;">Brief Introduction On Stack Sorting</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(327).pdf" style="text-decoration:none;">Reflections on Trusting Trust</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(328).pdf" style="text-decoration:none;">Computing Machinery and Intelligence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(329).pdf" style="text-decoration:none;">On computable numbers, with an application to the Entscheidungsproblem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(330).pdf" style="text-decoration:none;">Python Tutorial: Release 3.7.0</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(331).pdf" style="text-decoration:none;">A Plea for Lean. Software</a></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    </ul>
   
   
