@@ -67,7 +67,7 @@ for Multiprocessor Real-Time Systems</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(30).pdf" style="text-decoration:none;">SQLGraph: An Efficient Relational-Based Property Graph Store</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(31).pdf" style="text-decoration:none;">Star Schema Benchmark</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(31).PDF" style="text-decoration:none;">Star Schema Benchmark</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(32).pdf" style="text-decoration:none;">Staring into the Abyss: An Evaluation of
 Concurrency Control with One Thousand Cores</a></li> 
 
@@ -150,7 +150,7 @@ with Static Analysis</a></li>
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(73).pdf" style="text-decoration:none;">Self-Adjusting Binary Search Trees</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(74).pdf" style="text-decoration:none;">
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(74).PDF" style="text-decoration:none;">
 Self-stabilizing Systems in Spite of Distributed Control </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(75).pdf" style="text-decoration:none;">Self-Verifying Execution (Position Paper)</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(76).pdf" style="text-decoration:none;">Semantic Patches: Documenting and Automating Collateral Evolutions in Linux Device Drivers</a></li>
@@ -391,15 +391,15 @@ Linked Data Structures</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(191).pdf" style="text-decoration:none;">Trig Cheat Sheet </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(192).pdf" style="text-decoration:none;">Tru64 UNIX: Assembly Language Programmer's Guide</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(192).PDF" style="text-decoration:none;">Tru64 UNIX: Assembly Language Programmer's Guide</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(193).pdf" style="text-decoration:none;">Tru64 UNIX: Calling Standard for Alpha Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(193).PDF" style="text-decoration:none;">Tru64 UNIX: Calling Standard for Alpha Systems</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(194).pdf" style="text-decoration:none;">Tru64 UNIX: Object File and Symbol Table Format Specification</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(194).PDF" style="text-decoration:none;">Tru64 UNIX: Object File and Symbol Table Format Specification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(195).pdf" style="text-decoration:none;">Tru64 UNIX: Programmer's Guide</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(195).PDF" style="text-decoration:none;">Tru64 UNIX: Programmer's Guide</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(196).pdf" style="text-decoration:none;">Tru64 UNIX: Programming Support Tools</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(196).PDF" style="text-decoration:none;">Tru64 UNIX: Programming Support Tools</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(197).pdf" style="text-decoration:none;">True IOMMU Protection from DMA Attacks:
 When Copy is Faster than Zero Copy</a></li> 
