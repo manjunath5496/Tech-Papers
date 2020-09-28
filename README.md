@@ -346,7 +346,7 @@ and Algorithmic Applications of Linear Algebra</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(167).pdf" style="text-decoration:none;">Time, Clocks, and the Ordering of Events in
 a Distributed System</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(168).pdf" style="text-decoration:none;">TinyLFU: A Highly Ecient Cache Admission Policy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(168).pdf" style="text-decoration:none;">TinyLFU: A Highly Efficient Cache Admission Policy</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(169).pdf" style="text-decoration:none;">To Search or to Crawl? Towards a Query Optimizer for Text-Centric Tasks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(170).pdf" style="text-decoration:none;">To Wash It All Away</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(171).pdf" style="text-decoration:none;">Data Structures and Algorithms for
