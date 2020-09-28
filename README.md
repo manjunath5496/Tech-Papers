@@ -279,7 +279,7 @@ Xeon</a></li>
 numerical computation</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(134).pdf" style="text-decoration:none;">Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(134).pdf" style="text-decoration:none;">The Development of the C Language</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(135).pdf" style="text-decoration:none;">The Probabilistic Relevance Framework:
 BM25 and Beyond</a></li>
@@ -509,7 +509,7 @@ and reduction / scan operations</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(248).pdf" style="text-decoration:none;">What Happens During a Join? Dissecting CPU and Memory Optimization Effects</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(249).pdf" style="text-decoration:none;">Variational Neural Machine Translation with Normalizing Flows</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(249).pdf" style="text-decoration:none;">The Feel of Java</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(250).pdf" style="text-decoration:none;">What's Wrong
 With Deep Learning?</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(251).pdf" style="text-decoration:none;">When Corrections Fail:
