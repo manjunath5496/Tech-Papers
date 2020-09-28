@@ -676,16 +676,7 @@ Bottlenecks Identification</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(329).pdf" style="text-decoration:none;">On computable numbers, with an application to the Entscheidungsproblem</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(330).pdf" style="text-decoration:none;">Python Tutorial: Release 3.7.0</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(331).pdf" style="text-decoration:none;">A Plea for Lean. Software</a></li>
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(331).pdf" style="text-decoration:none;">A Plea for Lean Software</a></li>
  
  
  
