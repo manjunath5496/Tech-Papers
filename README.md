@@ -2,105 +2,123 @@
 
 <ul>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(1).pdf" style="text-decoration:none;">Online adaptation strategies for statistical machine translation in post-editing scenarios</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(1).pdf" style="text-decoration:none;">SIMD Compression and the Intersection
+of Sorted Integers</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(2).pdf" style="text-decoration:none;">Online adaptation strategies for statistical machine translation in post-editing scenarios</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(2).pdf" style="text-decoration:none;">SIMD Parallelization of Applications
+that Traverse Irregular Data Structures</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(3).pdf" style="text-decoration:none;">Cost-sensitive active learning for computer-assisted translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(4).pdf" style="text-decoration:none;">Target-Text Mediated Interactive Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(5).pdf" style="text-decoration:none;">Dual Inference for Machine Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(6).pdf" style="text-decoration:none;">Exploiting Similarities among Languages for Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(7).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(4).pdf" style="text-decoration:none;">SIMNET and Beyond:
+A History of the Development of Distributed Simulation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(3).pdf" style="text-decoration:none;">SIMD Vectorization of Histogram Functions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(5).pdf" style="text-decoration:none;">Simple and Space-Efficient
+Minimal Perfect Hash Functions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(6).pdf" style="text-decoration:none;">Simple Image File Formats</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(7).pdf" style="text-decoration:none;">Simple implementation of deletion from
+open-address hash table</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(8).pdf" style="text-decoration:none;"> Embedding Word Similarity with Neural Machine Translation</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(9).pdf" style="text-decoration:none;">Improving zero-shot learning by mitigating the hubness problem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(8).pdf" style="text-decoration:none;"> Sine/Cosine using
+CORDIC Algorithm</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(9).pdf" style="text-decoration:none;">SipHash: a fast short-input PRF</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(10).pdf" style="text-decoration:none;">Adam: A Method for Stochastic Optimization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(11).pdf" style="text-decoration:none;">Effective Approaches to Attention-based Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(12).pdf" style="text-decoration:none;">Neural Machine Translation of Rare Words with Subword Units</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(13).pdf" style="text-decoration:none;">Multi-task Sequence to Sequence Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(10).pdf" style="text-decoration:none;">Skip Lists: A Probabilistic Alternative to
+Balanced Trees</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(11).pdf" style="text-decoration:none;">SLAM and Static Driver Verifier: Technology
+Transfer of Formal Methods inside Microsoft</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(12).pdf" style="text-decoration:none;">Verification/Analysis tools need some form of Symbolic Reasoning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(13).pdf" style="text-decoration:none;">Snel: SQL Native Execution for LLVM</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(14).pdf" style="text-decoration:none;">Improving Neural Machine Translation Models with Monolingual Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(14).pdf" style="text-decoration:none;">Software Engineering Code of Ethics</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(15).pdf" style="text-decoration:none;">Sequence Level Training with Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(15).pdf" style="text-decoration:none;">Interactive Session:
+Software Tracing</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(16).pdf" style="text-decoration:none;">Multi-Source Neural Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(16).pdf" style="text-decoration:none;">software transactional memory: why is it only a research toy?</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(17).pdf" style="text-decoration:none;">Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(17).pdf" style="text-decoration:none;">Solaris Fibre Channel and Storage
+Multipathing Administration Guide</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(18).pdf" style="text-decoration:none;">Incorporating Structural Alignment Biases into an Attentional Neural Translation Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(18).pdf" style="text-decoration:none;">Oracle Solaris 11 Administrator's Cheat Sheet</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(19).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(19).pdf" style="text-decoration:none;">Solaris Dynamic Tracing Guide</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(20).pdf" style="text-decoration:none;"> An Actor-Critic Algorithm for Sequence Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(20).pdf" style="text-decoration:none;"> Solaris Internals: Core Kernel Components</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(21).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(22).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(21).pdf" style="text-decoration:none;">Sorting improves word-aligned bitmap indexes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(22).pdf" style="text-decoration:none;">SpaceJMP: Programming with Multiple Virtual Address Spaces</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(23).pdf" style="text-decoration:none;">The SPARC Architecture Manual</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(24).pdf" style="text-decoration:none;">Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Tra</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(24).pdf" style="text-decoration:none;">Specialising Dynamic Techniques For Implementing The Ruby Programming Language</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(25).pdf" style="text-decoration:none;">Neural Machine Translation and Sequence-to-sequence Models: A Tutorial</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(26).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(27).pdf" style="text-decoration:none;">Sequence-to-Sequence Models Can Directly Translate Foreign Speech</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(25).pdf" style="text-decoration:none;">SPECK: a Kernel for Scalable Predictability</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(26).pdf" style="text-decoration:none;">Spectre Attacks: Exploiting Speculative Execution </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(27).pdf" style="text-decoration:none;">Speeding up
+Networking</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(28).pdf" style="text-decoration:none;">Convolutional Sequence to Sequence Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(28).pdf" style="text-decoration:none;">Spin-Based Reader-Writer Synchronization
+for Multiprocessor Real-Time Systems</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(29).pdf" style="text-decoration:none;">A Survey of Cross-lingual Word Embedding Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(29).pdf" style="text-decoration:none;">Spread Unary Coding</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(30).pdf" style="text-decoration:none;">Dual Supervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(30).pdf" style="text-decoration:none;">SQLGraph: An Efficient Relational-Based Property Graph Store</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(31).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(32).pdf" style="text-decoration:none;">Statistical Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(31).pdf" style="text-decoration:none;">Star Schema Benchmark</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(32).pdf" style="text-decoration:none;">Staring into the Abyss: An Evaluation of
+Concurrency Control with One Thousand Cores</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(33).pdf" style="text-decoration:none;">Attentive Convolution:
-Equipping CNNs with RNN-style Attention Mechanisms</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(33).pdf" style="text-decoration:none;">Stasis: Flexible Transactional Storage</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(34).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(34).pdf" style="text-decoration:none;">Statistically adaptive learning for a general class of cost functions (SA L-BFGS)</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(35).pdf" style="text-decoration:none;">Learning to Remember Translation History with a Continuous Cache</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(35).pdf" style="text-decoration:none;">Stochastic Gradient Descent Tricks</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(36).pdf" style="text-decoration:none;">Improved English to Russian Translation by Neural Suffix Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(36).pdf" style="text-decoration:none;">STOPLESS: A Real-Time Garbage Collector for Multiprocessors</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(37).pdf" style="text-decoration:none;">Asynchronous Bidirectional Decoding for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(39).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(40).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(41).pdf" style="text-decoration:none;">Analyzing Uncertainty in Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(42).pdf" style="text-decoration:none;">Fast Decoding in Sequence Models Using Discrete Latent Variables</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(37).pdf" style="text-decoration:none;">Storing a Sparse Table with O(1) Worst Case Access Time</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(38).pdf" style="text-decoration:none;">Stratified B-trees and versioning dictionaries</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(39).pdf" style="text-decoration:none;">Stratified Synthesis: Automatically
+Learning the x86-64 Instruction Set</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(40).pdf" style="text-decoration:none;">Streaming Data Mining</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(41).pdf" style="text-decoration:none;">Streaming Store Instructions in the Intel® Xeon Phi™ coprocessor</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(42).pdf" style="text-decoration:none;">Strongly universal string hashing is
+fast</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(43).pdf" style="text-decoration:none;">Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(44).pdf" style="text-decoration:none;">SEQ2SEQ-VIS : A Visual Debugging Tool for Sequence-to-Sequence Models</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(45).pdf" style="text-decoration:none;">A Reinforcement Learning Approach to Interactive-Predictive Neural Machine Translation</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(43).pdf" style="text-decoration:none;">Structured Deferral:
+Synchronization via Procrastination</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(44).pdf" style="text-decoration:none;">Structured Exception Handler
+EXPLOITATION</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(45).pdf" style="text-decoration:none;">Suffix trees</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(46).pdf" style="text-decoration:none;">Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(46).pdf" style="text-decoration:none;">Sum of Degrees of Vertices Theorem</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(47).pdf" style="text-decoration:none;">The price of debiasing automatic metrics in natural language evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(48).pdf" style="text-decoration:none;">"Bilingual Expert" Can Find Translation Errors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(47).pdf" style="text-decoration:none;">System V Application Binary Interface
+AMD64 Architecture Processor Supplement Draft Version 0.99.6</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(48).pdf" style="text-decoration:none;">Tackling Latency Using FG</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(49).pdf" style="text-decoration:none;">Neural Machine Translation of Text from Non-Native Speakers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(49).pdf" style="text-decoration:none;">Taming Win32 Threads
+with Static Analysis</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(50).pdf" style="text-decoration:none;">Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(51).pdf" style="text-decoration:none;">MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(52).pdf" style="text-decoration:none;">Pre-training on high-resource speech recognition improves low-resource speech-to-text translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(50).pdf" style="text-decoration:none;">Tango: Distributed Data Structures over a Shared Log</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(51).pdf" style="text-decoration:none;">TCP Fast Open</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(52).pdf" style="text-decoration:none;">Rewriting X86 Binaries Without Code Producer Cooperation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(53).pdf" style="text-decoration:none;">FRAGE: Frequency-Agnostic Word Representation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(53).pdf" style="text-decoration:none;">Rich Versus King: The Entrepreneur's Dilemma </a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(54).pdf" style="text-decoration:none;">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(54).pdf" style="text-decoration:none;">Ring 0 to Ring -1 Attacks </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(55).pdf" style="text-decoration:none;">Latent Variable Model for Multi-modal Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(55).pdf" style="text-decoration:none;">Rise of the Virtual Machines</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(56).pdf" style="text-decoration:none;">Addressing Word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(56).pdf" style="text-decoration:none;">Robust Combinatorial Optimization with Exponential Scenarios</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(57).pdf" style="text-decoration:none;">Bi-Directional Differentiable Input Reconstruction for Low-Resource Neural Machine Translation </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(57).pdf" style="text-decoration:none;">Safe Concurrent Programming and Execution</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(58).pdf" style="text-decoration:none;">Neural Machine Translation with Adequacy-Oriented Learning</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(59).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(58).pdf" style="text-decoration:none;">Safe Memory Reclamation for Dynamic Lock-Free Objects Using Atomic Reads and Writes</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(59).pdf" style="text-decoration:none;">SALSA: Scalable and Low Synchronization NUMA-aware Algorithm for Producer-Consumer Pools</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Tech-Papers/blob/master/ech(60).pdf" style="text-decoration:none;">Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context</a></li>
  
